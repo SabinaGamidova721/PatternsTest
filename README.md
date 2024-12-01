@@ -6,4 +6,7 @@ Practical tasks have been completed using "Abstract Factory" pattern.
 <br>
 
 # UML
-![image](https://github.com/user-attachments/assets/800fbd05-04ff-4ebf-851c-147267a614f0)
+![image](https://github.com/user-attachments/assets/62a14685-91f3-4f4e-8a88-76e5208aaeda)
+
+# UML V2
+![image](https://github.com/user-attachments/assets/cd4e01b0-6f19-40d7-8afe-22b5bc189125)
